@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on writing the frontend for my application using the Django API
 - 📫 How to reach me @Azzlem - telegram
 - 😄 Pronouns: he
-- ⚡ Fun fact: deadlift = 180 kilograms without equipment, bench press = 110 kilograms without equipment, squats = 140 kilograms without equipment. This is my hobby))
+- ⚡ Fun fact: 
+Deadlift = 180 kilograms without equipment, 
+Bench press = 110 kilograms without equipment, 
+Squats = 140 kilograms without equipment. This is my hobby))
 
 
 
